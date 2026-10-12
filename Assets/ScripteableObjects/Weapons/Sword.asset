@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7c2872cf38398449bebd522d5ad84e0, type: 3}
   m_Name: Sword
   m_EditorClassIdentifier: 
-  weaponName: Katana
+  weaponName: ATTACK
   weaponAttack: {fileID: 11400000, guid: 8799e53309f8ba54db2f1469f0e870ee, type: 2}

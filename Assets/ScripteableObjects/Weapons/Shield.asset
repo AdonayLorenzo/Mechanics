@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7c2872cf38398449bebd522d5ad84e0, type: 3}
   m_Name: Shield
   m_EditorClassIdentifier: 
-  weaponName: Escudo
+  weaponName: SHIELD
   weaponAttack: {fileID: 11400000, guid: dc8c38bf0cdff54448a7e627a27803e5, type: 2}
