@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f00df6facb5e9ab4fb0f53158fb8758b, type: 3}
+  m_Name: ProtectedSlahc
+  m_EditorClassIdentifier: 
+  comboName: Protected Slash
+  requiredSequence:
+  - {fileID: 11400000, guid: eb411ff2a7415bc4fbd38ba920808e53, type: 2}
+  - {fileID: 11400000, guid: 34c8d8558c415b84599bb42c1e71d7b3, type: 2}
+  comboAttack: {fileID: 11400000, guid: 6e19c2f96de8ed341a552d7d232d50b3, type: 2}
+  description: 
